@@ -11,4 +11,10 @@ Linn respects your privacy and is committed to protecting the personal informati
 
 Songcast collects annonymous usage data using the Google Analytics and Xamarin Insights frameworks. 
 
-### Google Analytics Information Collected
+### Information Collected by Google Analytics
+
+| Type | Interval | Purpose
+| ChangeRoom | Whenever a different room is selected | To help identify if Songcast is tied to a single room or roams
+| Click | Whenever a button is clicked | To help identify areas of Songcast that are seldom used
+| VolumeControllerChanged | Whenever the type of volume control is changed | To help identify popularity of rocker vs rotary volume control
+| LogPollError | Whenever an error occurs between the UI and backend | To help identify hard to track down in the field issues
