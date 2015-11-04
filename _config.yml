@@ -1,0 +1,8 @@
+markdown: kramdown
+baseurl: '/songcast.site'
+title:  'Songcast'
+tagline: 'play anything from your deskto on your system'
+url: 'https://github.com/linn/songcast.site'
+permalink: pretty
+description: 'Songcast is allows anything played on your dekstop to be listened to on your Linn DS/DSM.'
+homeurl: 'http://linn.github.io/songcast.site/'
