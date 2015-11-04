@@ -1,8 +1,8 @@
 markdown: kramdown
 baseurl: '/songcast.site'
 title:  'Songcast'
-tagline: 'play anything from your deskto on your system'
+tagline: 'play anything on your Linn system from your desktop'
 url: 'https://github.com/linn/songcast.site'
 permalink: pretty
-description: 'Songcast is allows anything played on your dekstop to be listened to on your Linn DS/DSM.'
+description: 'Songcast allows anything on your desktop to be listened to on your Linn DS/DSM.'
 homeurl: 'http://linn.github.io/songcast.site/'
