@@ -24,7 +24,7 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 
 ### Information collected by Xamarin Insights
 
-| Name | Interval | Purpose
+| Description | Interval | Purpose
 | OS and version | At application start | To help identify which OSs are used by customers
 | Country obtained by IP address lookup | At application start | To help identify number of Songcast users in each of our markets
 | Installed version | At application start | To help identify the take up of new versions
@@ -32,7 +32,7 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 
 ### Information collected during a crash
 
-| Name | Purpose
+| Description | Purpose
 | Date and time | To identify frequency of a crash
 | Installed version | To identify what versions of Songcast are affected by the crash
 | OS and version | To identify if a crash is specific to a certain OS
