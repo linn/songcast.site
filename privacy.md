@@ -32,7 +32,7 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 
 ### Crash reporting
 
-#### Notice of changes to this policy
+### Notice of changes to this policy
 
 ###### Linn will update this policy from time to time. When we do we will revise the "Last updated" date at the bottom of the page
 
