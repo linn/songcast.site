@@ -11,13 +11,20 @@ Linn respects your privacy and is committed to protecting the personal informati
 
 Songcast collects annonymous usage data using the Google Analytics and Xamarin Insights frameworks. 
 
-### Information Collected by Google Analytics
+### Information collected by Google Analytics
 
 | Event | Interval | Purpose
-| OS | At application startup | To identify what OS are used by customers
-| Country | At application startup | To take up of Songcast in each of our markets
-| Session | When streaming from PC to DS is stopped | To help understand how Songcast is used
+| OS | At application start | To help identify which OSs are used by customers
+| Country | At application start | To help identify number of Songcast users in each of our markets
+| Session | When streaming from computer to DS is stopped | To help understand how Songcast is used
 | ChangeRoom | Whenever a different room is selected | To help identify if Songcast is generally tied to a single room or roams
 | Click | Whenever a button is clicked | To help identify areas of Songcast that are seldom used
 | VolumeControllerChanged | Whenever the type of volume control is changed | To help identify popularity of rocker vs rotary volume control
 | LogPollError | Whenever an error occurs between the UI and backend | To help identify hard to track down in the field issues
+
+### Information collected by Xamarin Insights
+
+| Event | Interval | Purpose
+| OS | At application start | To help identify which OSs are used by customers
+| Country | At application start | To help identify number of Songcast users in each of our markets
+| Version | At application start | To help identify the take up of new versions
