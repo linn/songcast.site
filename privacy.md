@@ -13,7 +13,7 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 
 ### Information collected by Google Analytics
 
-| Event | Interval | Purpose
+| Name | Interval | Purpose
 | OS | At application start | To help identify which OSs are used by customers
 | Country | At application start | To help identify number of Songcast users in each of our markets
 | Session | When streaming from computer to DS is stopped | To help understand how Songcast is used
@@ -24,7 +24,7 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 
 ### Information collected by Xamarin Insights
 
-| Event | Interval | Purpose
+| Name | Interval | Purpose
 | OS | At application start | To help identify which OSs are used by customers
 | Country | At application start | To help identify number of Songcast users in each of our markets
 | Version | At application start | To help identify the take up of new versions
