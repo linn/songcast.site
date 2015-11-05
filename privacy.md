@@ -49,6 +49,6 @@ We do not rent or sell any of the information we may collect from you to third p
 
 ### Notice of changes to this policy
 
-###### Linn will update this policy from time to time. When we do we will revise the "Last updated" date at the bottom of the page
+###### Linn will update this policy from time to time. When we do we will revise the "Last updated" date at the bottom of the page.
 
 Last updated: 5 November 2015
