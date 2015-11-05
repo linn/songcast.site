@@ -30,7 +30,17 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 | Version | At application start | To help identify the take up of new versions
 | Session | When streaming from computer to DS is stopped | To help understand how Songcast is used
 
-### Crash reporting
+### Information collected during a crash
+
+| Name | Purpose
+| Date | To identify frequency of a crash
+| Version | To identify what versions of Songcast are affected by the crash
+| OS | To identify if a crash is specific to a certain OS
+| InstallId | To identify crashes that all originated from the same application install
+| Exception | To identify where in the code a crash occured
+| LogFile | To help developers recreate the issue
+| OptionsFile | To help developers recreate the issue
+
 
 ### Notice of changes to this policy
 
