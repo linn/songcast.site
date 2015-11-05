@@ -41,6 +41,11 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 | LogFile | To help developers recreate the issue
 | OptionsFile | To help developers recreate the issue
 
+### How we use this information 
+
+Linn collects information from your Linn system because it helps us better understand how our products are used, which in turn allows Linn to provide the best experience possible for our users.
+
+We do not rent or sell any of the information we may collect from you to third parties.
 
 ### Notice of changes to this policy
 
