@@ -16,11 +16,11 @@ Songcast collects annonymous usage data using the Google Analytics and Xamarin I
 | Description | Interval | Purpose
 | OS and version | At application start | To help identify which OSs are used by customers
 | Country obtained by IP address lookup | At application start | To help identify number of Songcast users in each of our markets
-| Time when DS is selected and time when computer is selected | Time between switching audio from computer speakers to DS and back again | To help understand how Songcast is used
-| ChangeRoom | Whenever a different room is selected | To help identify if Songcast is generally tied to a single room or roams
-| Click | Whenever a button is clicked | To help identify areas of Songcast that are seldom used
-| VolumeControllerChanged | Whenever the type of volume control is changed | To help identify popularity of rocker vs rotary volume control
-| LongPollError | Whenever an error occurs between the UI and backend | To help identify hard to track down in the field issues
+| Time when DS is selected and time when computer is selected | When DS is selected and when computer is selected | To help understand how much Songcast is used
+| Room name when room is changed | When a different room is selected | To help identify if Songcast is tied to a single room or moves between rooms
+| Button identifier | Whenever a button is clicked | To help identify areas of Songcast are used
+| The type of volume control selected | Whenever the type of volume control is changed | To help identify popularity of rocker vs rotary volume control
+| Error reported by OS | Whenever the UI becomes unresponsive | To help identify, non crashing, in the field issues
 
 ### Information collected by Xamarin Insights
 
