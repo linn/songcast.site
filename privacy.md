@@ -36,12 +36,12 @@ Linn collects information from your Linn system because it helps us better under
 
 We do not sell any of the information we may collect from you to third parties.
 
+### Statistics Collection
+
+Songcast collects annonymous usage data using the Google Analytics and Xamarin Insights frameworks.
+
 ### Notice of changes to this policy
 
 ###### Linn will update this policy from time to time. When we do we will revise the "Last updated" date at the bottom of the page.
 
-### Statistics Collection
-
-Songcast collects annonymous usage data using the Google Analytics and Xamarin Insights frameworks. 
-
-Last updated: 5 November 2015
+Last updated: **5 November 2015**
