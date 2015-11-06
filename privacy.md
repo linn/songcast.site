@@ -36,7 +36,7 @@ Linn collects information from your Linn system because it helps us better under
 
 We do not sell any of the information we may collect from you to third parties.
 
-### Statistics Collection
+### How we collect statistics
 
 Songcast collects annonymous usage data using the Google Analytics and Xamarin Insights frameworks.
 
